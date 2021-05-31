@@ -12,5 +12,6 @@ In the second graph Sales by state shown using heat map of US. Another dropdown 
 
 In the third Donut graph Sales by Ship mode is shown, a dropdown is provided to select category of the products sold. This dropdown is used to change the values for Sales by Region, Ship mode, and segment graphs. 
 
+A short video is added to see report functionality. FILE NAME: Sales_Profit_Report_Video
 The file (.pbix) can be downloaded in the repository. FILE NAME: Sales_Profit_Report 
 The data used to create the report is uploaded as Super Store Data.xlsx
